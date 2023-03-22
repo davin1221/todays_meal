@@ -1,7 +1,4 @@
 let meals = []
-let tempMeals = [] // Id로 검색 전 확인하기 위해 담아둠 
-let tempMeals2 = [] // Id로 검색 전 확인하기 위해 담아둠 
-
 
 let resultMeals = []
 let url = ""
